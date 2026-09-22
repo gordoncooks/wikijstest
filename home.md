@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2026-09-22T14:15:57.510Z
+date: 2026-09-22T14:20:52.824Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-22T09:50:45.604Z
@@ -35,7 +35,7 @@ Contact your organisation administrator or the Protogarden support team.
 [README](/README)
 
 
-> [!NOTE]
+> NOTE
 > This is a highlighted note block.
 > You can add multiple lines here to emphasize important information.
 
