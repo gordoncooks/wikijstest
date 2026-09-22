@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2026-09-22T09:54:21.902Z
+date: 2026-09-22T10:00:00.506Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-22T09:50:45.604Z
@@ -21,6 +21,8 @@ Welcome to the documentation. Use the links below to get started, or search at t
 - [Connecting a device](/getting-started/connecting-a-device.md)
 - [Creating a device group](/en/getting-started/device-groups)
 - [Inviting users to your organisation](/en/getting-started/inviting-users)
+
+[home](/home)
 
 ## Using the platform
 
