@@ -2,13 +2,15 @@
 title: README
 description: 
 published: true
-date: 2026-09-22T09:53:06.387Z
+date: 2026-09-22T09:54:21.902Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-22T09:50:45.604Z
 ---
 
 # Mzansi Sense
+
+![longlogo.jpeg](/longlogo.jpeg)
 
 A IoT device managing platform for businesses.
 
