@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2026-09-22T14:07:49.913Z
+date: 2026-09-22T14:15:57.510Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-22T09:50:45.604Z
@@ -33,3 +33,10 @@ Welcome to the documentation. Use the links below to get started, or search at t
 Contact your organisation administrator or the Protogarden support team.
 
 [README](/README)
+
+
+> [!NOTE]
+> This is a highlighted note block.
+> You can add multiple lines here to emphasize important information.
+
+![mac-thao.jpg](/pic/mac-thao.jpg)
